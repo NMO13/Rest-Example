@@ -5,8 +5,10 @@
         <group>
             <file>file:/C:/Users/Martin/Documents/NetBeansProjects/CodeChallenge/src/java/de/number26/TransactionService.java</file>
             <file>file:/C:/Users/Martin/Documents/NetBeansProjects/CodeChallenge/src/java/de/number26/TransactionDao.java</file>
+            <file>file:/C:/Users/Martin/Documents/NetBeansProjects/CodeChallenge/web/WEB-INF/web.xml</file>
             <file>file:/C:/Users/Martin/Documents/NetBeansProjects/CodeChallenge/src/java/de/number26/Transaction.java</file>
             <file>file:/C:/Users/Martin/Documents/NetBeansProjects/CodeChallenge/src/java/de/number26/JSONBuilder.java</file>
+            <file>file:/C:/Users/Martin/Documents/NetBeansProjects/CodeChallenge/test/SimpleTest.java</file>
         </group>
     </open-files>
 </project-private>

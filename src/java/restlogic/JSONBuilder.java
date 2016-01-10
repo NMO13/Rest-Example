@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package de.number26;
+package restlogic;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
